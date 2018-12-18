@@ -112,4 +112,4 @@ venv.bak/
 *.iml
 out
 gen
-/GET_DATA/database.py
+#/GET_DATA/database.py
